@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+# README.md
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project is for the #30DaysOfWeb3 challenge by WBW3. 
 
-Try running some of the following tasks:
+It is a dapp that uses blockchain to allow for people who have rsvps and then attended an event to get a refund. 
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
