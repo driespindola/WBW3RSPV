@@ -29,5 +29,16 @@
   },
   "dependencies": {
     "dotenv": "^16.0.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/driespindola/WBW3RSPV.git"
+  },
+  "bugs": {
+    "url": "https://github.com/driespindola/WBW3RSPV/issues"
+  },
+  "homepage": "https://github.com/driespindola/WBW3RSPV#readme"
 }
